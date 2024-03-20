@@ -1,0 +1,689 @@
+QiTiStudio Bear Scanner V2.5
+
+Input [ifMonitor & ifDebugMode & ifShowNoPlayerWorld]:
+0 0 0
+Input [ip, start, end, maxThread]s end by '#':
+49.75.63.97 26000 60000 10
+153.34.197.9 39000 60000 10
+180.108.44.69 4500 60000 10
+103.100.209.131 26000 60000 10
+121.228.219.109 35000 60000 10
+#
+<debug> ip load finished! amount: 5
+
+2022/8/5 11:45:29        153.34.197.9:39036               [100|1]               1.17.1   players: gj123
+2022/8/5 11:45:48        121.228.219.109:35185             [20|5]          Spigot 1.19   players: MLingH, Anonymous Player, Anonymous Player, Anonymous Player, Long_Bo
+2022/8/5 11:46:30        121.228.219.109:35215             [20|1]                 1.19   players: wuXuw
+2022/8/5 11:47:2         121.228.219.109:35241             [10|3]               1.18.2   players: Steve, douxing, Alex
+2022/8/5 11:47:29        49.75.63.97:26387                 [20|1] forge arclight 1.18.2  players: MizumotoJunya
+2022/8/5 11:47:40        49.75.63.97:26401                 [20|1]         forge 1.16.5   players: kongcheng
+2022/8/5 11:48:21        121.228.219.109:35407             [20|6]        Spigot 1.18.2   players: Senyogp, Haku, kuber, husband, BearRan, wawachu
+2022/8/5 11:49:25        49.75.63.97:26531                 [20|1] forge arclight 1.18.2  players: niuniu
+2022/8/5 11:49:38        49.75.63.97:26586                 [69|7]         Paper 1.18.2   players: qyh
+2022/8/5 11:50:10        121.228.219.109:35734             [20|1]                 1.19   players: riikuzou
+2022/8/5 11:50:37        153.34.197.9:40090                [16|2]               1.18.2   players: qiqi, xiangcai
+2022/8/5 11:51:7         153.34.197.9:40112                [20|2]         forge 1.16.5   players: Starfox, shiyi!
+2022/8/5 11:51:22        153.34.197.9:40122                [20|1]               1.18.2   players: lmrlyx
+2022/8/5 11:51:39        153.34.197.9:40134                [20|3]         forge 1.16.5   players: Arkhalis, DArk, Arkrais
+2022/8/5 11:51:53        153.34.197.9:40144               [100|9]        Spigot 1.16.5   players: mingjiaoLELE, lanse, LittleBlock233, okazaki, GBH, OOOwdsj, Beluga, mywslzh, aaa_xaun
+2022/8/5 11:52:35        121.228.219.109:36358             [20|1]          Spigot 1.19   players: Dzizhao
+2022/8/5 11:52:44        49.75.63.97:27146                 [80|2]               1.18.2   players: moqilin, Diana
+2022/8/5 11:53:9         121.228.219.109:36394             [10|1]               1.18.2   players: Enz0o
+2022/8/5 11:55:23        153.34.197.9:41022                [10|1]        Mohist 1.16.5   players: OliviaNearl
+2022/8/5 11:55:57        153.34.197.9:41048                [50|1]        Spigot 1.19.1   players: 1122245585a
+2022/8/5 11:56:21        153.34.197.9:41066                [20|1]                 1.19   players: Xy
+2022/8/5 12:0:13         153.34.197.9:42018                [20|2]          Spigot 1.19   players: LineXining, RadiantPillarBC1
+2022/8/5 12:0:46         153.34.197.9:42050                [20|2]               1.18.2   players: Yeeeeyoung, sgdgmg
+2022/8/5 12:1:4  153.34.197.9:42064                [20|1]         forge 1.16.5   players: sbvcd
+2022/8/5 12:1:34         153.34.197.9:42086                [20|1]               1.18.2   players: Virgil_xiaogong
+2022/8/5 12:2:12         153.34.197.9:42132                [20|1]         forge 1.16.5   players: Honami
+2022/8/5 12:2:17         153.34.197.9:42140                [10|4]          Spigot 1.19   players: Shadow, mz112, jiaotang, Injury
+2022/8/5 12:2:32         153.34.197.9:42154               [100|1]        Spigot 1.16.4   players: Potato_Master4
+2022/8/5 12:2:32         153.34.197.9:42156                [50|1]                 1.19   players: OLOUxxx
+153.34.197.9:39036               [100|2]               1.17.1    players: gj123, 鐮存崯鐨勫績
+121.228.219.109:35185             [20|1]          Spigot 1.19    players: Anonymous Player
+121.228.219.109:35241             [10|2]               1.18.2    players: Steve, Alex
+121.228.219.109:35407             [20|3]        Spigot 1.18.2    players: xSheng, Haku, Senyogp
+49.75.63.97:26586                 [69|1]         Paper 1.18.2    players: NPC
+153.34.197.9:40090                [16|1]               1.18.2    players: qiqi
+121.228.219.109:36358             [20|3]          Spigot 1.19    players: Anonymous Player, guajilao, aaron_xu
+153.34.197.9:40134                [20|2]         forge 1.16.5    players: Arkrais, Arkhalis
+153.34.197.9:40144               [100|4]        Spigot 1.16.5    players: GBH, LittleBlock233, OOOwdsj, mywslzh
+49.75.63.97:27146                 [80|2]               1.18.2    players: Diana, moqilin
+153.34.197.9:41048                [50|3]        Spigot 1.19.1    players: 1122245585a, zihao, hin
+153.34.197.9:42034                [20|1]         forge 1.16.5    players: Heresylost
+153.34.197.9:42050                [20|1]               1.18.2    players: sgdgmg
+153.34.197.9:42136                 [5|1]          Spigot 1.19    players: Arno_MF
+153.34.197.9:42140                [10|5]          Spigot 1.19    players: Tian_, jiaotang, Injury, Shadow, mz
+QiTiStudio Bear Scanner V2.4
+
+Input [ifDebugMode & ifShowNoPlayerWorld]:
+0 0
+Input [ip, start, end, maxThread]s end by '#':
+49.75.63.97 26000 60000 10
+153.34.197.9 39000 60000 10
+180.108.44.69 4500 60000 10
+103.100.209.131 26000 60000 10
+121.228.219.109 35000 60000 10
+#
+<debug> ip load finished! amount: 5
+
+121.228.219.109:35022          [10000|1]               1.18.2    players: DANGE__
+153.34.197.9:39036               [100|2]               1.17.1    players: gj123, 璧跺緱涓
+121.228.219.109:35167             [20|1]                 1.19    players: wumimiao
+121.228.219.109:35197             [20|1]          Spigot 1.19    players: bochengzipi
+49.75.63.97:26275                 [80|1]          Spigot 1.19    players: A_zrael
+49.75.63.97:26322                 [20|1]        Spigot 1.18.2    players: teriteri2019
+49.75.63.97:26350                 [20|1]          Spigot 1.19    players: Allen_Chen2002
+49.75.63.97:26387                 [20|1] forge arclight 1.18.2   players: MizumotoJunya
+49.75.63.97:26401                 [20|1]         forge 1.16.5    players: Molway
+121.228.219.109:35407             [20|3]        Spigot 1.18.2    players: xSheng, kuber, Senyogp
+121.228.219.109:35409             [40|1]        Spigot 1.18.2    players: Kindish_Project
+153.34.197.9:40012                [10|2]          Spigot 1.19    players: BlueMelody_, KasteWA
+121.228.219.109:35423             [20|1]          Spigot 1.19    players: NSL8
+49.75.63.97:26586                 [69|7]         Paper 1.18.2    players: Lam
+153.34.197.9:40074                [20|1]          Spigot 1.19    players: EraserNob
+153.34.197.9:40090                [16|1]               1.18.2    players: qiqi
+153.34.197.9:40100                [20|1]          Spigot 1.19    players: cxacz
+153.34.197.9:40112                [20|1]         forge 1.16.5    players: shiyi!
+153.34.197.9:40122                [20|1]               1.18.2    players: lmrlyx
+153.34.197.9:40134                [20|2]         forge 1.16.5    players: Arkrais, DArk
+49.75.63.97:27030                 [80|4]          Spigot 1.19    players: CarsonYau, littlebeauty1117, Justincmt, Kcbilly228922
+153.34.197.9:40144               [100|5]        Spigot 1.16.5    players: OOOwdsj, Beluga, Bai_Zhu_eight, xiaosama, LittleBlock233
+121.228.219.109:36358             [20|2]          Spigot 1.19    players: aaron_xu, guajilao
+49.75.63.97:27126                 [10|2]          Spigot 1.19    players: Tokisa_Kurumi, 4008238823
+49.75.63.97:27136                 [10|2]                 1.19    players: xk_ged, YU_ged
+49.75.63.97:27196                 [20|2]          Spigot 1.19    players: Redspider616, OneTwoFish
+49.75.63.97:27204                 [50|1] forge arclight 1.17.1   players: hatori96
+49.75.63.97:27216                 [10|1]         forge 1.16.5    players: dky
+153.34.197.9:41022                [10|1]        Mohist 1.16.5    players: OliviaNearl
+153.34.197.9:41036                [10|3]               1.18.2    players: chen, Buluofen, DGM
+153.34.197.9:41044                [20|2]         forge 1.16.5    players: jiancheng, Boberiety
+153.34.197.9:41048                [50|3]        Spigot 1.19.1    players: hin, 1122245585a, zihao
+153.34.197.9:41052                [20|1]        Spigot 1.18.2    players: dipper2000
+153.34.197.9:41066                [20|2]                 1.19    players: Saint_120, Xy
+103.100.209.131:30372      [624721831|1]        Spigot 1.18.2    players: uwqu
+153.34.197.9:42014                [20|1]               1.18.2    players: linan
+153.34.197.9:42018                [20|3]          Spigot 1.19    players: RadiantPillarBC1, showdiamway, LineXining
+153.34.197.9:42030                [20|1]          Spigot 1.19    players: Artoraaaaa
+153.34.197.9:42034                [20|2]         forge 1.16.5    players: ping_xing, iBeria_
+153.34.197.9:42054                [20|1]         Paper 1.18.1    players: King_LX
+153.34.197.9:42078                [20|1]          Spigot 1.19    players: RanZi_
+153.34.197.9:42080                [10|1]          Spigot 1.19    players: Hunkchan
+153.34.197.9:42086                [20|3]               1.18.2    players: YINGTANMEI, Virgil_xiaogong, mfbtr
+153.34.197.9:42100                [10|2]         forge 1.16.5    players: RUMI, ShYo
+153.34.197.9:42128                [20|1]          Spigot 1.19    players: JackzMd
+153.34.197.9:42132                [20|1]         forge 1.16.5    players: Ame
+
+QiTiStudio Bear Scanner V2.4
+
+Input [ifDebugMode & ifShowNoPlayerWorld]:
+0 0
+Input [ip, start, end, maxThread]s end by '#':
+49.75.63.97 26000 60000 10
+153.34.197.9 39000 60000 10
+180.108.44.69 4500 60000 10
+103.100.209.131 26000 60000 10
+121.228.219.109 35000 60000 10
+#
+<debug> ip load finished! amount: 5
+
+121.228.219.109:35022          [10000|1]               1.18.2    players: DANGE__
+153.34.197.9:39036               [100|1]               1.17.1    players: gj123
+121.228.219.109:35167             [20|1]                 1.19    players: wumimiao
+121.228.219.109:35195             [20|1]                 1.19    players: Suriv
+49.75.63.97:26350                 [20|1]          Spigot 1.19    players: Allen_Chen2002
+49.75.63.97:26387                 [20|2] forge arclight 1.18.2   players: MizumotoJunya, universe2333
+49.75.63.97:26401                 [20|2]         forge 1.16.5    players: YUNLING, Molway
+121.228.219.109:35407             [20|3]        Spigot 1.18.2    players: wawachu, xSheng, kuber
+121.228.219.109:35409             [40|1]        Spigot 1.18.2    players: Cang_qiong
+49.75.63.97:26432                 [20|1]         forge 1.16.5    players: rabbit
+153.34.197.9:40012                [10|3]          Spigot 1.19    players: Noria518, BlueMelody_, Anonymous Player
+121.228.219.109:35423             [20|2]          Spigot 1.19    players: KOTEAH, POCA-OC
+49.75.63.97:26531                 [20|1] forge arclight 1.18.2   players: niuniu
+49.75.63.97:26586                 [69|5]         Paper 1.18.2    players: Lam
+153.34.197.9:40074                [20|2]          Spigot 1.19    players: EraserNob, GhostZeroG
+153.34.197.9:40090                [16|1]               1.18.2    players: qiqi
+153.34.197.9:40100                [20|1]          Spigot 1.19    players: cxacz
+153.34.197.9:40112                [20|1]         forge 1.16.5    players: shiyi!
+153.34.197.9:40134                [20|2]         forge 1.16.5    players: yingziyz, DArk
+49.75.63.97:27030                 [80|2]          Spigot 1.19    players: littlebeauty1117, Justincmt
+153.34.197.9:40144               [100|9]        Spigot 1.16.5    players: sad_bee13, LittleBlock233, mywslzh, lanse, littleblack_, DJZ6612, OOOwdsj, superSB, XXS
+121.228.219.109:36358             [20|2]          Spigot 1.19    players: guajilao, aaron_xu
+49.75.63.97:27126                 [10|1]          Spigot 1.19    players: 4008238823
+49.75.63.97:27146                 [80|1]               1.18.2    players: moqilin
+49.75.63.97:27204                 [50|1] forge arclight 1.17.1   players: hatori96
+49.75.63.97:27216                 [10|1]         forge 1.16.5    players: dky
+153.34.197.9:41022                [10|1]        Mohist 1.16.5    players: OliviaNearl
+153.34.197.9:41036                [10|2]               1.18.2    players: chen, DGM
+153.34.197.9:41038                [99|1]         forge 1.16.5    players: kekeduo
+153.34.197.9:41044                [20|2]         forge 1.16.5    players: jiancheng, YNRRRy
+153.34.197.9:41048                [50|3]        Spigot 1.19.1    players: 1122245585a, zihao, Fox
+153.34.197.9:41066                [20|1]                 1.19    players: Xy
+153.34.197.9:41078                [10|1]        Spigot 1.19.1    players: Tony_Leung
+153.34.197.9:42014                [20|2]               1.18.2    players: fgg, xiaosui66
+153.34.197.9:42018                [20|1]          Spigot 1.19    players: RadiantPillarBC1
+153.34.197.9:42054                [20|1]         Paper 1.18.1    players: King_LX
+153.34.197.9:42078                [20|2]          Spigot 1.19    players: AEzioA, RanZi_
+153.34.197.9:42100                [10|4]         forge 1.16.5    players: RUMI, zakogoose, ShYo, MajiaFungi
+153.34.197.9:42128                [20|2]          Spigot 1.19    players: Vett, JackzMd
+153.34.197.9:42132                [20|1]         forge 1.16.5    players: Ame
+
+QiTiStudio Bear Scanner V2.4
+
+Input [ifDebugMode & ifShowNoPlayerWorld]:
+0 0
+Input [ip, start, end, maxThread]s end by '#':
+49.75.63.97 26000 60000 10
+153.34.197.9 39000 60000 10
+180.108.44.69 4500 60000 10
+103.100.209.131 26000 60000 10
+121.228.219.109 35000 60000 10
+#
+<debug> ip load finished! amount: 5
+
+153.34.197.9:39036               [100|2]               1.17.1    players: gj123, 鐮存崯鐨勫績
+121.228.219.109:35195             [20|1]                 1.19    players: Suriv
+121.228.219.109:35241             [10|2]               1.18.2    players: weiss, douxing
+49.75.63.97:26387                 [20|1] forge arclight 1.18.2   players: Aliyyuu
+121.228.219.109:35407             [20|5]        Spigot 1.18.2    players: xSheng, kuber, Senyogp, wawachu, CandyEgg
+49.75.63.97:26434                 [20|1]          Spigot 1.19    players: qiushengqin
+49.75.63.97:26586                 [69|5]         Paper 1.18.2    players: zsgyk
+49.75.63.97:26609                 [20|1]        Spigot 1.18.2    players: Anonymous Player
+121.228.219.109:35734             [20|1]                 1.19    players: riikuzou
+49.75.63.97:27030                 [80|1]          Spigot 1.19    players: Justincmt
+121.228.219.109:36358             [20|3]          Spigot 1.19    players: Dzizhao, aaron_xu, guajilao
+121.228.219.109:36364             [10|1]               1.18.2    players: MOSTIMA____
+153.34.197.9:41008               [200|1]               1.18.2    players: KAZI
+153.34.197.9:41022                [10|1]        Mohist 1.16.5    players: OliviaNearl
+153.34.197.9:41036                [10|5]               1.18.2    players: YatogamiChika, chen, Unya, DGM, HinanawaTensi
+49.75.63.97:27196                 [20|3]          Spigot 1.19    players: DDDD, OneTwoFish, Redspider616
+153.34.197.9:41048                [50|3]        Spigot 1.19.1    players: hin, Fox, zihao
+153.34.197.9:41052                [20|2]        Spigot 1.18.2    players: dipper2000, kkAndyXu
+49.75.63.97:27204                 [50|1] forge arclight 1.17.1   players: HBBBBBB
+153.34.197.9:42018                [20|2]          Spigot 1.19    players: LineXining, RadiantPillarBC1
+153.34.197.9:42030                [20|2]          Spigot 1.19    players: Butterfly0506, Artoraaaaa
+153.34.197.9:42054                [20|1]         Paper 1.18.1    players: King_LX
+153.34.197.9:42064                [20|1]         forge 1.16.5    players: Redbuie
+153.34.197.9:42100                [10|2]         forge 1.16.5    players: MajiaFungi, RUMI
+103.100.209.131:30372      [624721831|1]        Spigot 1.18.2    players: uwqu
+153.34.197.9:42132                [20|1]         forge 1.16.5    players: Ame
+
+QiTiStudio Bear Scanner V2.4
+
+Input [ifDebugMode & ifShowNoPlayerWorld]:
+0 1
+Input [ip, start, end, maxThread]s end by '#':
+49.75.63.97 26000 60000 10
+153.34.197.9 39000 60000 10
+180.108.44.69 4500 60000 10
+103.100.209.131 26000 60000 10
+121.228.219.109 35000 60000 10
+#
+<debug> ip load finished! amount: 5
+
+153.34.197.9:39008                [60|0]               1.16.5    players:
+153.34.197.9:39012                [50|0]          Spigot 1.19    players:
+121.228.219.109:35022          [10000|0]               1.18.2    players:
+49.75.63.97:26040                 [20|0]               1.16.5    players:
+49.75.63.97:26042                 [10|0]         forge 1.16.5    players:
+153.34.197.9:39014                [20|0]               1.16.5    players:
+153.34.197.9:39018                [20|0]          Spigot 1.19    players:
+153.34.197.9:39022                [70|0]               1.18.2    players:
+121.228.219.109:35087             [30|0]        Spigot 1.16.2    players:
+49.75.63.97:26124                 [10|0]                 1.19    players:
+153.34.197.9:39024                [80|0]               1.18.2    players:
+153.34.197.9:39034                [16|0]          Spigot 1.19    players:
+153.34.197.9:39036               [100|3]               1.17.1    players: 鐮存崯鐨勫績, 290zeishuai, gj123
+121.228.219.109:35157            [100|0]          Spigot 1.19    players:
+121.228.219.109:35167             [20|0]                 1.19    players:
+121.228.219.109:35181             [20|0]        Spigot 1.17.1    players:
+121.228.219.109:35185             [20|0]          Spigot 1.19    players:
+49.75.63.97:26225                 [20|0]        Spigot 1.18.2    players:
+49.75.63.97:26233                 [20|0]               1.10.2    players:
+121.228.219.109:35193             [15|0]               1.18.2    players:
+121.228.219.109:35195             [20|0]                 1.19    players:
+103.100.209.131:26416             [20|0]          Spigot 1.19    players:
+49.75.63.97:26267                  [3|0]          Spigot 1.19    players:
+121.228.219.109:35197             [20|0]          Spigot 1.19    players:
+49.75.63.97:26275                 [80|0]          Spigot 1.19    players:
+121.228.219.109:35201             [20|0]          Spigot 1.19    players:
+49.75.63.97:26303               [1000|0]         forge 1.16.5    players:
+49.75.63.97:26311                 [20|0]               1.18.2    players:
+49.75.63.97:26317                  [5|0]         forge 1.16.5    players:
+121.228.219.109:35209             [20|0]               1.18.2    players:
+49.75.63.97:26322                 [20|0]        Spigot 1.18.2    players:
+121.228.219.109:35211             [20|0]         forge 1.16.5    players:
+121.228.219.109:35213             [20|0]               1.18.2    players:
+121.228.219.109:35215             [20|0]                 1.19    players:
+49.75.63.97:26328                 [20|0]         forge 1.16.5    players:
+49.75.63.97:26332                 [50|0]                 1.19    players:
+121.228.219.109:35217              [8|0]         forge 1.16.5    players:
+49.75.63.97:26345                 [20|0]               1.18.1    players:
+49.75.63.97:26350                 [20|1]          Spigot 1.19    players: Allen_Chen2002
+49.75.63.97:26352                 [20|0]               1.16.5    players:
+49.75.63.97:26354                 [10|0]          Spigot 1.19    players:
+49.75.63.97:26356                 [20|0]         forge 1.16.5    players:
+121.228.219.109:35231             [20|0]               1.16.5    players:
+49.75.63.97:26360                 [20|0]               1.16.5    players:
+121.228.219.109:35239              [5|0]          Spigot 1.19    players:
+49.75.63.97:26362                 [10|0]               1.16.5    players:
+121.228.219.109:35241             [10|1]               1.18.2    players: douxing
+49.75.63.97:26377                 [30|0]               1.18.2    players:
+121.228.219.109:35247              [2|0]               1.18.1    players:
+49.75.63.97:26385                 [20|0]        Spigot 1.16.5    players:
+49.75.63.97:26387                 [20|0] forge arclight 1.18.2   players:
+121.228.219.109:35254             [13|0]         forge 1.16.5    players:
+49.75.63.97:26395                 [30|0]          Spigot 1.19    players:
+121.228.219.109:35258             [20|0]               1.18.1    players:
+49.75.63.97:26399                 [20|0]          Spigot 1.19    players:
+49.75.63.97:26401                 [20|0]         forge 1.16.5    players:
+49.75.63.97:26405                 [30|0]         Spigot 1.8.3    players:
+49.75.63.97:26407                 [20|0]               1.18.2    players:
+49.75.63.97:26409                 [20|0]               1.18.1    players:
+49.75.63.97:26416                 [20|0]          Spigot 1.19    players:
+49.75.63.97:26428                 [10|0]        Spigot 1.18.1    players:
+153.34.197.9:40002                 [2|0]        Spigot 1.18.2    players:
+153.34.197.9:40004                [20|0]          Spigot 1.19    players:
+153.34.197.9:40012                [10|0]          Spigot 1.19    players:
+153.34.197.9:40014                [20|0]        Spigot 1.18.1    players:
+153.34.197.9:40016                [20|0]        Spigot 1.18.2    players:
+49.75.63.97:26432                 [20|0]         forge 1.16.5    players:
+49.75.63.97:26434                 [20|0]          Spigot 1.19    players:
+49.75.63.97:26436                 [20|0]         forge 1.16.5    players:
+49.75.63.97:26440                 [20|0]               1.14.4    players:
+49.75.63.97:26442                 [20|0]         forge 1.16.5    players:
+121.228.219.109:35407             [20|2]        Spigot 1.18.2    players: kuber, xSheng
+121.228.219.109:35409             [40|0]        Spigot 1.18.2    players:
+153.34.197.9:40022                [10|0]        Spigot 1.18.2    players:
+153.34.197.9:40026                [10|0]         forge 1.16.5    players:
+49.75.63.97:26450                 [20|0]               1.18.2    players:
+49.75.63.97:26456                 [20|0]         forge 1.16.5    players:
+121.228.219.109:35419             [20|0] forge arclight 1.18.2   players:
+121.228.219.109:35421             [10|0]          Spigot 1.19    players:
+121.228.219.109:35423             [20|0]          Spigot 1.19    players:
+153.34.197.9:40030                [20|0]         forge 1.16.5    players:
+121.228.219.109:35425             [20|0]               1.16.5    players:
+153.34.197.9:40034                [20|0]               1.16.5    players:
+49.75.63.97:26472             [114514|0]               1.18.2    players:
+153.34.197.9:40046                [20|0]          Spigot 1.19    players:
+153.34.197.9:40054                [20|0]          Spigot 1.19    players:
+49.75.63.97:26531                 [20|0] forge arclight 1.18.2   players:
+153.34.197.9:40060                [20|0]               1.16.5    players:
+153.34.197.9:40066                [20|0]                 1.19    players:
+49.75.63.97:26586                 [69|1]         Paper 1.18.2    players: NPC
+121.228.219.109:35555             [20|0]        Spigot 1.18.2    players:
+49.75.63.97:26609                 [20|0]        Spigot 1.18.2    players:
+153.34.197.9:40072                [10|0]          Spigot 1.19    players:
+153.34.197.9:40074                [20|1]          Spigot 1.19    players: EraserNob
+153.34.197.9:40076                [20|0]         forge 1.16.5    players:
+49.75.63.97:26679                 [10|0]               1.14.4    players:
+121.228.219.109:35660             [20|0]                 1.19    players:
+153.34.197.9:40082                [20|0]                 1.19    players:
+153.34.197.9:40088                [20|0]          Spigot 1.19    players:
+153.34.197.9:40090                [16|1]               1.18.2    players: qiqi
+153.34.197.9:40094                [20|0]         forge 1.16.5    players:
+49.75.63.97:26740                 [20|0]         forge 1.16.5    players:
+49.75.63.97:26746                 [20|0]         forge 1.16.5    players:
+153.34.197.9:40098                [20|0] forge arclight 1.18.2   players:
+153.34.197.9:40100                [20|0]          Spigot 1.19    players:
+153.34.197.9:40106                [20|0]               1.18.1    players:
+121.228.219.109:35734             [20|0]                 1.19    players:
+121.228.219.109:35746             [20|0]        Spigot 1.18.2    players:
+153.34.197.9:40108                [20|0]         forge 1.16.5    players:
+153.34.197.9:40110                [20|0]        Spigot 1.18.2    players:
+153.34.197.9:40112                [20|0]         forge 1.16.5    players:
+153.34.197.9:40114                [20|0]                1.8.3    players:
+153.34.197.9:40116                [20|0]          Spigot 1.19    players:
+153.34.197.9:40122                [20|0]               1.18.2    players:
+153.34.197.9:40118                [20|0]               1.16.5    players:
+153.34.197.9:40126                [20|0]          Spigot 1.19    players:
+153.34.197.9:40128                [20|0]          Spigot 1.19    players:
+153.34.197.9:40130                [20|0]          Spigot 1.19    players:
+153.34.197.9:40134                [20|2]         forge 1.16.5    players: Arkrais, Arkhalis
+153.34.197.9:40132                [20|0]                 1.19    players:
+49.75.63.97:26989                 [20|0]               1.16.5    players:
+49.75.63.97:27004                 [80|0]               1.18.2    players:
+49.75.63.97:27008                 [80|0]          Spigot 1.19    players:
+153.34.197.9:40142                [20|0]         forge 1.16.5    players:
+153.34.197.9:40144               [100|8]        Spigot 1.16.5    players: LittleBlock233, mywslzh, Beluga, lanse, fsdfhsflS, sad_bee13, OOOwdsj, xiaosama
+49.75.63.97:27030                 [80|1]          Spigot 1.19    players: Justincmt
+49.75.63.97:27040                 [20|0]               1.18.2    players:
+49.75.63.97:27046                 [70|0]          Spigot 1.19    players:
+153.34.197.9:40154                [20|0]               1.16.5    players:
+49.75.63.97:27060                 [70|0]          Spigot 1.18    players:
+49.75.63.97:27068                 [80|0]         forge 1.16.5    players:
+49.75.63.97:27098                 [50|0]               1.18.2    players:
+49.75.63.97:27104                 [20|0]          Spigot 1.19    players:
+49.75.63.97:27110                 [80|0]         forge 1.16.5    players:
+49.75.63.97:27118                 [80|0]               1.18.2    players:
+49.75.63.97:27120                  [4|0]               1.18.2    players:
+49.75.63.97:27122                 [12|0]          Spigot 1.19    players:
+49.75.63.97:27126                 [10|0]          Spigot 1.19    players:
+49.75.63.97:27136                 [10|0]                 1.19    players:
+49.75.63.97:27146                 [80|1]               1.18.2    players: Diana
+49.75.63.97:27150                 [20|0]               1.18.2    players:
+121.228.219.109:36278             [50|0]               1.16.5    players:
+49.75.63.97:27162                 [30|0]        Spigot 1.18.1    players:
+49.75.63.97:27166                 [50|0]          Spigot 1.18    players:
+121.228.219.109:36312             [80|0] forge arclight 1.18.2   players:
+49.75.63.97:27188                 [50|0]          Spigot 1.19    players:
+49.75.63.97:27190                 [15|0]         forge 1.16.5    players:
+121.228.219.109:36346             [20|0]                 1.19    players:
+121.228.219.109:36352             [10|0]          Spigot 1.19    players:
+121.228.219.109:36354             [70|0]          Spigot 1.19    players:
+49.75.63.97:27196                 [20|1]          Spigot 1.19    players: DDDD
+49.75.63.97:27204                 [50|0] forge arclight 1.17.1   players:
+121.228.219.109:36356             [20|0]         forge 1.16.5    players:
+121.228.219.109:36358             [20|2]          Spigot 1.19    players: aaron_xu, guajilao
+153.34.197.9:41004                 [2|0]         forge 1.16.5    players:
+153.34.197.9:41008               [200|0]               1.18.2    players:
+153.34.197.9:41010                [50|0]         forge 1.16.5    players:
+49.75.63.97:27216                 [10|0]         forge 1.16.5    players:
+49.75.63.97:27218                  [5|0]          Spigot 1.19    players:
+121.228.219.109:36364             [10|0]               1.18.2    players:
+153.34.197.9:41014                [10|0]          Spigot 1.19    players:
+49.75.63.97:27222                 [50|0]          Spigot 1.19    players:
+121.228.219.109:36378            [100|0]               1.18.2    players:
+153.34.197.9:41016                [20|0]          Spigot 1.19    players:
+153.34.197.9:41018                [10|0]         forge 1.16.5    players:
+153.34.197.9:41020                [50|0]          Spigot 1.19    players:
+121.228.219.109:36380             [80|0]         forge 1.16.5    players:
+153.34.197.9:41022                [10|0]        Mohist 1.16.5    players:
+153.34.197.9:41028                [70|0]         forge 1.16.5    players:
+153.34.197.9:41030                [80|0]         forge 1.16.5    players:
+153.34.197.9:41036                [10|2]               1.18.2    players: YatogamiChika, Unya
+121.228.219.109:36390             [15|0]               1.18.1    players:
+153.34.197.9:41038                [99|0]         forge 1.16.5    players:
+153.34.197.9:41044                [20|0]         forge 1.16.5    players:
+121.228.219.109:36392             [69|0]    LoliServer 1.16.5    players:
+121.228.219.109:36394             [10|0]               1.18.2    players:
+153.34.197.9:41048                [50|0]        Spigot 1.19.1    players:
+121.228.219.109:36396             [20|0]                 1.19    players:
+153.34.197.9:41052                [20|1]        Spigot 1.18.2    players: kkAndyXu
+153.34.197.9:41054              [1000|0]        Spigot 1.19.1    players:
+121.228.219.109:36398             [10|0]          Spigot 1.19    players:
+153.34.197.9:41060                 [6|0]        Spigot 1.19.1    players:
+153.34.197.9:41064                [20|0]         forge 1.16.5    players:
+121.228.219.109:36402             [10|0]               1.16.5    players:
+153.34.197.9:41066                [20|0]                 1.19    players:
+153.34.197.9:41072                 [2|0]        Spigot 1.19.1    players:
+153.34.197.9:41078                [70|0]        Spigot 1.19.1    players:
+153.34.197.9:41080                [70|0]        Spigot 1.19.1    players:
+121.228.219.109:36494             [30|0]          Spigot 1.19    players:
+49.75.63.97:27868                  [6|0]    LoliServer 1.16.5    players:
+49.75.63.97:27946                 [10|0]          Spigot 1.19    players:
+49.75.63.97:27962                 [50|0]        Spigot 1.18.1    players:
+153.34.197.9:42001                 [5|1]         forge 1.16.5    players: Chenz1
+153.34.197.9:42010                [20|0]         forge 1.16.5    players:
+153.34.197.9:42014                [20|3]               1.18.2    players: fgg, xiaosui66, linan
+153.34.197.9:42016                [20|0]          Spigot 1.19    players:
+153.34.197.9:42018                [20|1]          Spigot 1.19    players: RadiantPillarBC1
+153.34.197.9:42020                [20|0]        Spigot 1.16.4    players:
+153.34.197.9:42024                [20|0]               1.16.5    players:
+103.100.209.131:30372      [624721831|0]        Spigot 1.18.2    players:
+153.34.197.9:42030                [20|1]          Spigot 1.19    players: Butterfly0506
+153.34.197.9:42034                [20|0]         forge 1.16.5    players:
+153.34.197.9:42040                [20|0]        Spigot 1.17.1    players:
+153.34.197.9:42042                [20|0]          Spigot 1.19    players:
+153.34.197.9:42050                [20|0]               1.18.2    players:
+153.34.197.9:42054                [20|0]         Paper 1.18.1    players:
+153.34.197.9:42058                [20|0]               1.18.2    players:
+153.34.197.9:42060                [20|0]               1.16.5    players:
+153.34.197.9:42062                [20|0]               1.18.2    players:
+153.34.197.9:42064                [20|0]         forge 1.16.5    players:
+153.34.197.9:42068                [20|0]        Spigot 1.18.2    players:
+153.34.197.9:42072                [20|0]          Spigot 1.19    players:
+153.34.197.9:42076                [20|0]               1.18.2    players:
+153.34.197.9:42078                [20|1]          Spigot 1.19    players: 4_nanai
+153.34.197.9:42080                [10|3]          Spigot 1.19    players: Hunkchan, ssgong, ctrlzhe
+153.34.197.9:42086                [20|0]               1.18.2    players:
+153.34.197.9:42090                [20|0]               1.16.5    players:
+153.34.197.9:42100                [10|2]         forge 1.16.5    players: MajiaFungi, RUMI
+153.34.197.9:42120                 [5|0]         forge 1.16.5    players:
+153.34.197.9:42122                [20|0]          Spigot 1.19    players:
+153.34.197.9:42124                [20|0]          Spigot 1.19    players:
+153.34.197.9:42128                [20|0]          Spigot 1.19    players:
+153.34.197.9:42132                [20|1]         forge 1.16.5    players: Honami
+153.34.197.9:42136                [20|0]          Spigot 1.19    players:
+103.100.209.131:33227             [20|0]          Spigot 1.19    players:
+103.100.209.131:35512             [20|0]                 1.19    players:
+103.100.209.131:36472             [16|0]               1.18.2    players:
+103.100.209.131:37952             [10|0]    LoliServer 1.16.5    players:
+
+QiTiStudio Bear Scanner V2.4
+
+Input [ifDebugMode & ifShowNoPlayerWorld]:
+0 1
+Input [ip, start, end, maxThread]s end by '#':
+49.75.63.97 26000 60000 10
+153.34.197.9 39000 60000 10
+180.108.44.69 4500 60000 10
+103.100.209.131 26000 60000 10
+121.228.219.109 35000 60000 10
+#
+<debug> ip load finished! amount: 5
+
+121.228.219.109:35022          [10000|0]               1.18.2    players:
+49.75.63.97:26040                 [20|0]               1.16.5    players:
+49.75.63.97:26042                 [10|0]         forge 1.16.5    players:
+153.34.197.9:39008                [60|0]               1.16.5    players:
+153.34.197.9:39012                [50|0]          Spigot 1.19    players:
+153.34.197.9:39014                [20|0]               1.16.5    players:
+153.34.197.9:39018                [20|0]          Spigot 1.19    players:
+121.228.219.109:35087             [30|0]        Spigot 1.16.2    players:
+153.34.197.9:39022                [70|0]               1.18.2    players:
+49.75.63.97:26124                 [10|0]                 1.19    players:
+153.34.197.9:39024                [80|0]               1.18.2    players:
+121.228.219.109:35157            [100|0]          Spigot 1.19    players:
+121.228.219.109:35167             [20|0]                 1.19    players:
+49.75.63.97:26185                 [50|0]        Spigot 1.18.1    players:
+153.34.197.9:39034                [16|0]          Spigot 1.19    players:
+153.34.197.9:39036               [100|1]               1.17.1    players: 璧跺緱涓
+121.228.219.109:35181             [20|0]        Spigot 1.17.1    players:
+121.228.219.109:35185             [20|0]          Spigot 1.19    players:
+49.75.63.97:26225                 [20|0]        Spigot 1.18.2    players:
+121.228.219.109:35193             [15|0]               1.18.2    players:
+49.75.63.97:26233                 [20|0]               1.10.2    players:
+121.228.219.109:35195             [20|0]                 1.19    players:
+121.228.219.109:35197             [20|0]          Spigot 1.19    players:
+103.100.209.131:26416             [20|0]          Spigot 1.19    players:
+121.228.219.109:35201             [20|0]          Spigot 1.19    players:
+49.75.63.97:26267                  [3|0]          Spigot 1.19    players:
+49.75.63.97:26275                 [80|0]          Spigot 1.19    players:
+49.75.63.97:26276                 [20|1]               1.18.2    players: guaji
+121.228.219.109:35209             [20|0]               1.18.2    players:
+49.75.63.97:26303               [1000|0]         forge 1.16.5    players:
+121.228.219.109:35211             [20|0]         forge 1.16.5    players:
+49.75.63.97:26311                 [20|0]               1.18.2    players:
+121.228.219.109:35213             [20|0]               1.18.2    players:
+121.228.219.109:35215             [20|0]                 1.19    players:
+121.228.219.109:35217              [8|0]         forge 1.16.5    players:
+49.75.63.97:26317                  [5|0]         forge 1.16.5    players:
+49.75.63.97:26322                 [20|1]        Spigot 1.18.2    players: BoroBoroChenLong
+49.75.63.97:26328                 [20|0]         forge 1.16.5    players:
+49.75.63.97:26332                 [50|0]                 1.19    players:
+121.228.219.109:35231             [20|0]               1.16.5    players:
+49.75.63.97:26345                 [20|0]               1.18.1    players:
+49.75.63.97:26350                 [20|1]          Spigot 1.19    players: Teng_Maha
+121.228.219.109:35239              [5|0]          Spigot 1.19    players:
+49.75.63.97:26352                 [20|0]               1.16.5    players:
+121.228.219.109:35241             [10|0]               1.18.2    players:
+49.75.63.97:26354                 [10|0]          Spigot 1.19    players:
+49.75.63.97:26360                 [20|0]               1.16.5    players:
+49.75.63.97:26362                 [10|0]               1.16.5    players:
+121.228.219.109:35247              [2|0]               1.18.1    players:
+121.228.219.109:35254             [13|0]         forge 1.16.5    players:
+49.75.63.97:26377                 [30|0]               1.18.2    players:
+121.228.219.109:35258             [20|0]               1.18.1    players:
+49.75.63.97:26385                 [20|0]        Spigot 1.16.5    players:
+49.75.63.97:26387                 [20|0] forge arclight 1.18.2   players:
+49.75.63.97:26395                 [30|0]          Spigot 1.19    players:
+49.75.63.97:26399                 [20|0]          Spigot 1.19    players:
+49.75.63.97:26401                 [20|2]         forge 1.16.5    players: kongcheng, Molway
+49.75.63.97:26405                 [30|0]         Spigot 1.8.3    players:
+49.75.63.97:26407                 [20|0]               1.18.2    players:
+49.75.63.97:26409                 [20|0]               1.18.1    players:
+49.75.63.97:26416                 [20|0]          Spigot 1.19    players:
+153.34.197.9:40002                 [2|0]        Spigot 1.18.2    players:
+153.34.197.9:40004                [20|0]          Spigot 1.19    players:
+153.34.197.9:40012                [10|1]          Spigot 1.19    players: PoorSonofsea
+153.34.197.9:40014                [20|0]        Spigot 1.18.1    players:
+121.228.219.109:35407             [20|3]        Spigot 1.18.2    players: wawachu, xSheng, kuber
+121.228.219.109:35409             [40|0]        Spigot 1.18.2    players:
+49.75.63.97:26428                 [10|0]        Spigot 1.18.1    players:
+153.34.197.9:40016                [20|0]        Spigot 1.18.2    players:
+49.75.63.97:26432                 [20|0]         forge 1.16.5    players:
+153.34.197.9:40022                [10|0]        Spigot 1.18.2    players:
+49.75.63.97:26434                 [20|0]          Spigot 1.19    players:
+153.34.197.9:40026                [10|0]         forge 1.16.5    players:
+121.228.219.109:35419             [20|0] forge arclight 1.18.2   players:
+49.75.63.97:26436                 [20|0]         forge 1.16.5    players:
+153.34.197.9:40030                [20|0]         forge 1.16.5    players:
+121.228.219.109:35421             [10|0]          Spigot 1.19    players:
+49.75.63.97:26440                 [20|0]               1.14.4    players:
+121.228.219.109:35423             [20|0]          Spigot 1.19    players:
+49.75.63.97:26442                 [20|0]         forge 1.16.5    players:
+153.34.197.9:40034                [20|0]               1.16.5    players:
+121.228.219.109:35425             [20|0]               1.16.5    players:
+49.75.63.97:26450                 [20|0]               1.18.2    players:
+49.75.63.97:26456                 [20|0]         forge 1.16.5    players:
+153.34.197.9:40046                [20|0]          Spigot 1.19    players:
+153.34.197.9:40054                [20|0]          Spigot 1.19    players:
+153.34.197.9:40060                [20|0]               1.16.5    players:
+153.34.197.9:40066                [20|0]                 1.19    players:
+49.75.63.97:26472             [114514|0]               1.18.2    players:
+121.228.219.109:35555             [20|0]        Spigot 1.18.2    players:
+153.34.197.9:40072                [10|0]          Spigot 1.19    players:
+153.34.197.9:40074                [20|1]          Spigot 1.19    players: EraserNob
+153.34.197.9:40076                [20|0]         forge 1.16.5    players:
+153.34.197.9:40082                [20|0]                 1.19    players:
+153.34.197.9:40088                [20|0]          Spigot 1.19    players:
+153.34.197.9:40090                [16|2]               1.18.2    players: qiqi, cz11
+49.75.63.97:26586                 [69|9]         Paper 1.18.2    players: NPC
+153.34.197.9:40094                [20|0]         forge 1.16.5    players:
+49.75.63.97:26609                 [20|1]        Spigot 1.18.2    players: shou_meng_
+153.34.197.9:40098                [20|0] forge arclight 1.18.2   players:
+121.228.219.109:35660             [20|0]                 1.19    players:
+153.34.197.9:40100                [20|0]          Spigot 1.19    players:
+153.34.197.9:40108                [20|0]         forge 1.16.5    players:
+49.75.63.97:26679                 [10|0]               1.14.4    players:
+153.34.197.9:40110                [20|0]        Spigot 1.18.2    players:
+153.34.197.9:40112                [20|1]         forge 1.16.5    players: shiyi!
+121.228.219.109:35734             [20|0]                 1.19    players:
+153.34.197.9:40114                [20|0]                1.8.3    players:
+153.34.197.9:40116                [20|0]          Spigot 1.19    players:
+121.228.219.109:35746             [20|0]        Spigot 1.18.2    players:
+153.34.197.9:40118                [20|0]               1.16.5    players:
+153.34.197.9:40122                [20|1]               1.18.2    players: woqi
+49.75.63.97:26740                 [20|0]         forge 1.16.5    players:
+49.75.63.97:26746                 [20|0]         forge 1.16.5    players:
+153.34.197.9:40126                [20|0]          Spigot 1.19    players:
+153.34.197.9:40128                [20|0]          Spigot 1.19    players:
+153.34.197.9:40130                [20|0]          Spigot 1.19    players:
+153.34.197.9:40132                [20|0]                 1.19    players:
+153.34.197.9:40134                [20|2]         forge 1.16.5    players: Arkrais, yingziyz
+153.34.197.9:40142                [20|0]         forge 1.16.5    players:
+153.34.197.9:40144               [100|3]        Spigot 1.16.5    players: Beluga, aaa_xaun, GBH
+153.34.197.9:40154                [20|0]               1.16.5    players:
+49.75.63.97:26989                 [20|0]               1.16.5    players:
+49.75.63.97:27004                 [80|1]               1.18.2    players: TOM
+49.75.63.97:27008                 [80|0]          Spigot 1.19    players:
+49.75.63.97:27030                 [80|1]          Spigot 1.19    players: Justincmt
+49.75.63.97:27040                 [20|2]               1.18.2    players: HKR7777, Hz741
+49.75.63.97:27046                 [70|0]          Spigot 1.19    players:
+121.228.219.109:36278             [50|0]               1.16.5    players:
+49.75.63.97:27060                 [70|1]          Spigot 1.18    players: Dsllxs
+49.75.63.97:27068                 [80|0]         forge 1.16.5    players:
+121.228.219.109:36312             [80|0] forge arclight 1.18.2   players:
+49.75.63.97:27098                 [50|0]               1.18.2    players:
+49.75.63.97:27104                 [20|0]          Spigot 1.19    players:
+49.75.63.97:27110                 [80|0]         forge 1.16.5    players:
+121.228.219.109:36346             [20|0]                 1.19    players:
+121.228.219.109:36352             [10|0]          Spigot 1.19    players:
+49.75.63.97:27118                 [80|0]               1.18.2    players:
+49.75.63.97:27120                  [4|0]               1.18.2    players:
+121.228.219.109:36354             [70|0]          Spigot 1.19    players:
+121.228.219.109:36356             [20|0]         forge 1.16.5    players:
+49.75.63.97:27122                 [12|0]          Spigot 1.19    players:
+121.228.219.109:36358             [20|3]          Spigot 1.19    players: Dzizhao, aaron_xu, guajilao1
+49.75.63.97:27126                 [10|2]          Spigot 1.19    players: 4008238823, Tokisa_Kurumi
+121.228.219.109:36364             [10|0]               1.18.2    players:
+49.75.63.97:27136                 [10|0]                 1.19    players:
+121.228.219.109:36378            [100|0]               1.18.2    players:
+121.228.219.109:36380             [80|0]         forge 1.16.5    players:
+49.75.63.97:27146                 [80|2]               1.18.2    players: Diana, moqilin
+49.75.63.97:27150                 [20|0]               1.18.2    players:
+121.228.219.109:36390             [15|0]               1.18.1    players:
+153.34.197.9:41004                 [2|0]         forge 1.16.5    players:
+121.228.219.109:36392             [69|0]    LoliServer 1.16.5    players:
+153.34.197.9:41008               [200|0]               1.18.2    players:
+121.228.219.109:36394             [10|1]               1.18.2    players: Enz0o
+49.75.63.97:27162                 [30|0]        Spigot 1.18.1    players:
+153.34.197.9:41010                [50|0]         forge 1.16.5    players:
+49.75.63.97:27166                 [50|0]          Spigot 1.18    players:
+121.228.219.109:36396             [20|0]                 1.19    players:
+121.228.219.109:36398             [10|0]          Spigot 1.19    players:
+153.34.197.9:41014                [10|0]          Spigot 1.19    players:
+153.34.197.9:41016                [20|0]          Spigot 1.19    players:
+153.34.197.9:41018                [10|0]         forge 1.16.5    players:
+121.228.219.109:36402             [10|0]               1.16.5    players:
+153.34.197.9:41020                [50|0]          Spigot 1.19    players:
+153.34.197.9:41022                [10|1]        Mohist 1.16.5    players: OliviaNearl
+153.34.197.9:41028                [70|0]         forge 1.16.5    players:
+49.75.63.97:27188                 [50|0]          Spigot 1.19    players:
+153.34.197.9:41030                [80|0]         forge 1.16.5    players:
+49.75.63.97:27190                 [15|0]         forge 1.16.5    players:
+153.34.197.9:41036                [10|0]               1.18.2    players:
+121.228.219.109:36494             [30|0]          Spigot 1.19    players:
+153.34.197.9:41038                [99|2]         forge 1.16.5    players: Qing, kekeduo
+49.75.63.97:27196                 [20|0]          Spigot 1.19    players:
+153.34.197.9:41048                [50|4]        Spigot 1.19.1    players: Fox, zihao, hin, 1122245585a
+153.34.197.9:41052                [20|1]        Spigot 1.18.2    players: Stella227788
+153.34.197.9:41054              [1000|0]        Spigot 1.19.1    players:
+49.75.63.97:27204                 [50|0] forge arclight 1.17.1   players:
+153.34.197.9:41060                 [6|0]        Spigot 1.19.1    players:
+153.34.197.9:41064                [20|0]         forge 1.16.5    players:
+49.75.63.97:27216                 [10|0]         forge 1.16.5    players:
+153.34.197.9:41066                [20|2]                 1.19    players: Saint_120, Xy
+49.75.63.97:27218                  [5|0]          Spigot 1.19    players:
+153.34.197.9:41072                 [2|0]        Spigot 1.19.1    players:
+103.100.209.131:30372      [624721831|2]        Spigot 1.18.2    players: uwqu, ahyes_
+49.75.63.97:27868                  [6|0]    LoliServer 1.16.5    players:
+49.75.63.97:27946                 [10|0]          Spigot 1.19    players:
+49.75.63.97:27962                 [50|0]        Spigot 1.18.1    players:
+103.100.209.131:33227             [20|0]          Spigot 1.19    players:
+153.34.197.9:42001                 [5|0]         forge 1.16.5    players:
+153.34.197.9:42010                [20|0]         forge 1.16.5    players:
+153.34.197.9:42016                [20|0]          Spigot 1.19    players:
+153.34.197.9:42014                [20|0]               1.18.2    players:
+153.34.197.9:42018                [20|1]          Spigot 1.19    players: LineXining
+153.34.197.9:42020                [20|0]        Spigot 1.18.2    players:
+153.34.197.9:42024                [20|0]               1.16.5    players:
+153.34.197.9:42030                [20|0]          Spigot 1.19    players:
+153.34.197.9:42034                [20|0]         forge 1.16.5    players:
+153.34.197.9:42040                [20|0]        Spigot 1.17.1    players:
+153.34.197.9:42042                [20|0]          Spigot 1.19    players:
+153.34.197.9:42050                [20|1]               1.18.2    players: Yeeeeyoung
+153.34.197.9:42054                [20|1]         Paper 1.18.1    players: King_LX
+153.34.197.9:42058                [20|1]               1.18.2    players: ddererer
+153.34.197.9:42060                [20|0]               1.16.5    players:
+153.34.197.9:42062                [20|0]               1.18.2    players:
+153.34.197.9:42064                [20|0]         forge 1.16.5    players:
+153.34.197.9:42068                [20|0]        Spigot 1.18.2    players:
+153.34.197.9:42072                [20|1]          Spigot 1.19    players: 12421231321
+153.34.197.9:42076                [20|0]               1.18.2    players:
+153.34.197.9:42078                [20|0]          Spigot 1.19    players:
+153.34.197.9:42080                [10|0]          Spigot 1.19    players:
+153.34.197.9:42086                [20|0]               1.18.2    players:
+153.34.197.9:42090                [20|0]               1.16.5    players:
+153.34.197.9:42100                [10|2]         forge 1.16.5    players: RUMI, zakogoose
+153.34.197.9:42120                 [5|0]         forge 1.16.5    players:
+153.34.197.9:42122                [20|0]          Spigot 1.19    players:
+153.34.197.9:42124                [20|0]          Spigot 1.19    players:
+153.34.197.9:42128                [20|1]          Spigot 1.19    players: JackzMd
+153.34.197.9:42136                [20|0]          Spigot 1.19    players:
+103.100.209.131:35512             [20|0]                 1.19    players:
+103.100.209.131:36472             [16|0]               1.18.2    players:
+103.100.209.131:37952             [10|0]    LoliServer 1.16.5    players:
+<debug> 153.34.197.9 thread exit!        world_amount:136        rest thread : 4

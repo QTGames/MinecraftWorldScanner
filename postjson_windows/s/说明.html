@@ -1,0 +1,178 @@
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+	<link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css">
+	<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/static/js/jquery.min.js"></script>
+	<script src="/static/js/jquery-qrcode-0.14.0.min.js"></script>
+	<script src="/static/plupload/js/plupload.full.min.js"></script>
+	<style>
+		body {
+			font-size: 16px
+		}
+
+		#ipqrcode {
+			width: 100%
+		}
+
+		#ipqrcode li {
+			list-style: none;
+			float: left;
+			margin-top: 20px;
+			margin-left: 30px;
+			text-align: center;
+		}
+	.btitle{
+		background-color: azure;
+		line-height:30px;
+		padding-left:10px;
+		border-bottom: 1px solid #ccc;
+	}
+	.zujian{
+		border:1px solid #ccc;
+		margin-top:5px;
+		margin-bottom: 30px;
+	}
+	.descss{
+		text-indent: 25px;
+		line-height: 28px;
+		margin-top:10px;
+		padding-left: 10px;
+	}
+	#filelist{
+		margin-top:20px
+	}
+	</style>
+</head>
+
+<body>
+
+	<div class="container " style='margin-top:50px'>
+		<div  class='zujian panel panel-default'>
+			<div class='panel-heading'>静态服务说明</div>
+			<div class='descss'>本目录为静态服务目录，放到本目录的文件都可以在局域网中访问，省去你在两 台电脑或手机中用数据线或优盘的拷贝麻烦，你可以用来共享文件给手机和局域网中的用户，记得别人 访问时，不是localhost,而是你的本地ip地址奥，而且，启动的这个服务器必须和访问的人在同
+			一wifi下！
+		   </div>
+		</div>
+		<div class='zujian panel panel-default'>
+			<div class='panel-heading'>文件上传</div>
+			<div class='descss'>
+				方便你上传文件到你工具同目录的 "s" 目录下，这样你局域网的机器都可以访问，共享点东西也很方便，另外视频，音频，图片的东西浏览器一般都可以直接打开播放或者查看！非常方便！
+			</div>
+
+			<div id="filelist">
+
+			</div>
+			<br />
+
+			<div id="container">
+				<a id="pickfiles" style='color:red' href="javascript:;">[选择文件]</a>
+				<a id="uploadfiles" style='color:red' href="javascript:;">[上传文件]</a>
+				<a id="clearlist" style='color:red' href="javascript:;">[清空上传列表]</a>
+			</div>
+
+			<br />
+			<br />
+			<p id="console"></p>
+		</div>
+		<div style='margin-top:20px'  class='zujian panel panel-default'>
+			<div class='panel-heading'>手机扫描直接访问</div>
+			<div class='descss'>
+				如果要手机(浏览器)访问，请扫描下边的二维码！ 选择与你电脑在同一网络的ip进行扫描，请保证手机和电脑在同一wifi下！
+			</div>
+			<div>
+				<ul id='ipqrcode'>
+				</ul>
+			</div>
+			<div style='clear:both'></div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		var uploader = new plupload.Uploader({
+			runtimes: 'html5,flash,silverlight,html4',
+			browse_button: 'pickfiles', 
+			container: document.getElementById('container'), 
+			url: '/tool/supload',
+			flash_swf_url: '/static/plupload/js/Moxie.swf',
+			silverlight_xap_url: '/static/plupload/js/Moxie.xap',
+
+			filters: {
+			
+			},
+
+			init: {
+				PostInit: function () {
+					document.getElementById('filelist').innerHTML = '';
+
+					document.getElementById('uploadfiles').onclick = function () {
+						uploader.start();
+						return false;
+					};
+				},
+
+				FilesAdded: function (up, files) {
+					plupload.each(files, function (file) {
+						document.getElementById('filelist').innerHTML += '<div id="' + file.id + '">' + file.name + ' (' + plupload.formatSize(
+							file.size) + ') <b></b></div>';
+					});
+				},
+				FileUploaded: function (uploader,file,data) {
+					res = JSON.parse(data.response);
+					if (res.code==1) {
+                       $("#"+file.id).append("<span style='color:red'>"+res.msg+"</span>");
+					} else{
+						$("#"+file.id).append("<span style='color:red'>失败原因:"+res.msg+"</span>");
+					}
+				},
+
+				UploadProgress: function (up, file) {
+					document.getElementById(file.id).getElementsByTagName('b')[0].innerHTML = '<span>' + file.percent + "%</span>";
+				},
+
+				Error: function (up, err) {
+					document.getElementById('console').appendChild(document.createTextNode("\nError #" + err.code + ": " + err.message));
+				}
+			}
+		});
+
+		uploader.init();
+	</script>
+	<script>
+		$(document).ready(function () {
+			$.ajax({
+				url: "/tool/ajaxlocalip",
+				type: "POST",
+				dataType: "json",
+				success: function (data) {
+					if (data.code == 1) {
+						var ips = data.data.ips;
+						var port = data.data.port;
+						for (var i in ips) {
+							h = "http://" + ips[i] + ":" + port + "/s/";
+							$("#ipqrcode").append("<li><div id='ipqrcode_" + i + "'></div><div>" + h + "</div></li>");
+							$("#ipqrcode_" + i).qrcode({
+								render: "image",
+								text: h
+							});
+						}
+
+
+					} else {
+
+					}
+				}
+			});
+			$("#clearlist").click(function(){
+				$("#filelist").html("");
+				$("#console").html("");
+			});
+		});
+	</script>
+</body>
+
+</html>
+

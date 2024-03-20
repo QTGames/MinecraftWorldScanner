@@ -1,0 +1,162 @@
+[20:53:43.175] [Start] 程序版本：Release 2.6.7（302）
+[20:53:43.175] [Start] 识别码：F12C-E57E-C685-148D
+[20:53:43.175] [Start] 程序路径：D:\开发区\阶段性完成的工程\C++\我的世界协议2.9（初步重构后）\Plain Craft Launcher 2.exe
+[20:53:43.182] [Start] 第一阶段加载用时：125 ms
+[20:53:43.357] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[20:53:43.357] [Start] 第二阶段加载用时：172 ms
+[20:53:43.371] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[20:53:43.731] [System] 窗口已置顶，位置：(290.285714285714, 196), 860 x 520
+[20:53:43.737] [Start] 第三阶段加载用时：78 ms
+[20:53:43.737] [Animation] 动画线程开始
+[20:53:43.739] [Start] 加载 DLL：Json
+[20:53:43.740] [System] 获取资源：Json
+[20:53:43.748] [Launch] Minecraft 文件夹：C:\Users\gongq\AppData\Roaming\.minecraft\
+[20:53:43.805] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[20:53:43.813] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[20:53:43.818] [Java] 缓存中有 4 个可用的 Java：
+[20:53:43.818] [Java]  - JRE 8 (8.0.51)，64 位：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[20:53:43.818] [Java]  - JDK 17 (17.0.8)，64 位：C:\Users\gongq\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\
+[20:53:43.819] [Java]  - JDK 17 (17.0.8)，64 位：C:\Program Files\Microsoft\jdk-17.0.8.7-hotspot\bin\
+[20:53:43.819] [Java]  - JDK 17 (17.0.5)，64 位：D:\GreenProgram\processing-4.1.1\java\bin\
+[20:53:43.867] [Page] 实例化：清空自定义主页 UI，来源为空
+[20:53:43.872] [Skin] 载入头像成功：Loader Skin Legacy
+[20:53:43.873] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\gongq\AppData\Roaming\.minecraft\versions\Last Days of Humanity\
+[20:53:43.875] [Loader] 加载器 登录 状态改变：Loading
+[20:53:43.877] [Launch] 登录加载已开始
+[20:53:43.880] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[20:53:43.881] [Launch] 登录方式：离线（chandlier）
+[20:53:43.883] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[20:53:43.892] [Launch] 登录加载已结束
+[20:53:43.892] [Loader] 加载器 登录 状态改变：Finished
+[20:53:44.035] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[20:53:44.037] [Loader] 加载器 PCL 服务 状态改变：Loading
+[20:53:44.038] [Server] 正在连接到 PCL 服务器
+[20:53:44.040] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[20:53:44.044] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1695732824-77488e2f-0-da07ef948801a255492114c3f3486bc6，超时 10000ms
+[20:53:44.339] [Server] 服务器公告：118|305|302|5，无需更新
+[20:53:44.361] [Loader] 加载器 PCL 服务 状态改变：Finished
+[20:53:44.470] [System] DPI：168，系统版本：10.0.22621.0，PCL 位置：D:\开发区\阶段性完成的工程\C++\我的世界协议2.9（初步重构后）\Plain Craft Launcher 2.exe
+[20:53:44.562] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[20:53:45.088] [Control] 按下按钮：启动游戏
+[20:53:45.089] [Loader] 加载器 Loader Launch 状态改变：Loading
+[20:53:45.095] [System] 欲读取的文件不存在，已返回空字符串：D:\开发区\阶段性完成的工程\C++\我的世界协议2.9（初步重构后）\PCL\hints.txt
+[20:53:45.101] [Launch] 预检测已通过
+[20:53:45.103] [Download] 开始后台更新资源文件索引
+[20:53:45.104] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[20:53:45.105] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[20:53:45.106] [Loader] 加载器 登录 状态改变：Waiting
+[20:53:45.106] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[20:53:45.106] [Loader] 加载器 获取 Java 状态改变：Loading
+[20:53:45.106] [Loader] 加载器 登录 状态改变：Loading
+[20:53:45.106] [Loader] 加载器 补全文件 状态改变：Loading
+[20:53:45.106] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[20:53:45.106] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[20:53:45.106] [Download] 版本 Last Days of Humanity 对应的资源文件索引为 1.12
+[20:53:45.106] [Launch] 登录加载已开始
+[20:53:45.106] [Launch] 登录加载已结束
+[20:53:45.106] [Loader] 加载器 登录 状态改变：Finished
+[20:53:45.106] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[20:53:45.106] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[20:53:45.107] [Download] 版本 Last Days of Humanity 对应的资源文件索引为 1.12
+[20:53:45.107] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[20:53:45.109] [Launch] Java 版本需求：最低 1.8.0.0，最高 1.8.999.999
+[20:53:45.109] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[20:53:45.117] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[20:53:45.117] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[20:53:45.118] [Java] 开始完全遍历查找：C:\Users\gongq\AppData\Roaming\
+[20:53:45.118] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[20:53:45.118] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[20:53:45.134] [Java] 开始完全遍历查找：C:\Users\gongq\AppData\Roaming\.minecraft\
+[20:53:45.139] [Minecraft] 获取支持库列表：Last Days of Humanity
+[20:53:45.140] [Java] 开始完全遍历查找：C:\Users\gongq\AppData\Roaming\.minecraft\versions\Last Days of Humanity\
+[20:53:45.142] [Download] 1.12.json 130#：开始，起始点 0，https://download.mcbbs.net/v1/packages/a21e1ded1a24ea1548dd8db0cf30b6acb02655a9/1.12.json
+[20:53:45.143] [Java] 开始确认列表 Java 状态，共 1 项
+[20:53:45.146] [System] 执行外部命令并等待返回结果：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\java.exe -version
+[20:53:45.196] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[20:53:45.196] [Loader] 加载器 下载资源文件 状态改变：Loading
+[20:53:45.197] [Loader] 加载器 下载资源文件 状态改变：Finished
+[20:53:45.197] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[20:53:45.265] [Download] 1.12.json：文件大小 143136 B（140 K）
+[20:53:45.281] [Java] 检查后找到 1 个特定路径下的 Java：
+[20:53:45.281] [Java]  - JRE 8 (8.0.51)，64 位：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[20:53:45.281] [Java] 优先使用特定路径下的 Java：JRE 8 (8.0.51)，64 位：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[20:53:45.282] [Java] 排序后的 Java 优先顺序：
+[20:53:45.282] [Java]  - JRE 8 (8.0.51)，64 位：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[20:53:45.282] [Java] 最终选定的 Java：JRE 8 (8.0.51)，64 位：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[20:53:45.282] [Launch] 选择的 Java：JRE 8 (8.0.51)，64 位：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[20:53:45.282] [Loader] 加载器 获取 Java 状态改变：Finished
+[20:53:45.295] [Download] 1.12.json：已完成，剩余文件 0
+[20:53:45.296] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[20:53:45.296] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[20:53:45.298] [Launch] 后台更新资源文件索引成功：C:\Users\gongq\AppData\Local\Temp\PCL\Cache\1.12.json
+[20:53:45.298] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[20:53:45.298] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[20:53:45.328] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[20:53:45.329] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[20:53:45.329] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[20:53:45.329] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[20:53:45.329] [Loader] 加载器 补全文件 状态改变：Finished
+[20:53:45.331] [Loader] 加载器 获取启动参数 状态改变：Loading
+[20:53:45.333] [Launch] 开始获取 Minecraft 启动参数
+[20:53:45.333] [Launch] 获取旧版 JVM 参数
+[20:53:45.338] [System] 获取资源：JavaWrapper
+[20:53:45.339] [Java] 已释放 Java Wrapper：C:\Users\gongq\AppData\Roaming\PCL\JavaWrapper.jar
+[20:53:45.339] [Launch] 旧版 JVM 参数获取成功：
+[20:53:45.339] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx2355m "-Djava.library.path=C:\Users\gongq\AppData\Roaming\.minecraft\versions\Last Days of Humanity\Last Days of Humanity-natives" -cp ${classpath} -Doolloo.jlw.tmpdir="C:\Users\gongq\AppData\Roaming\PCL" -jar "C:\Users\gongq\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch
+[20:53:45.339] [Launch] 获取旧版 Game 参数
+[20:53:45.340] [Launch] 旧版 Game 参数获取成功
+[20:53:45.342] [Minecraft] 获取支持库列表：Last Days of Humanity
+[20:53:45.347] [Launch] Minecraft 启动参数：
+[20:53:45.347] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx2355m "-Djava.library.path=C:\Users\gongq\AppData\Roaming\.minecraft\versions\Last Days of Humanity\Last Days of Humanity-natives" -cp "C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2860\forge-1.12.2-14.23.5.2860.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\gongq\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;C:\Users\gongq\AppData\Roaming\.minecraft\versions\Last Days of Humanity\Last Days of Humanity.jar" -Doolloo.jlw.tmpdir="C:\Users\gongq\AppData\Roaming\PCL" -jar "C:\Users\gongq\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.launchwrapper.Launch --username chandlier --version "Last Days of Humanity" --gameDir "C:\Users\gongq\AppData\Roaming\.minecraft\versions\Last Days of Humanity" --assetsDir "C:\Users\gongq\AppData\Roaming\.minecraft\assets" --assetIndex 1.12 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX48718 --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX48718 --userType msa --versionType PCL --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --height 480 --width 854 
+[20:53:45.347] [Loader] 加载器 获取启动参数 状态改变：Finished
+[20:53:45.353] [Loader] 加载器 解压文件 状态改变：Loading
+[20:53:45.358] [Launch] 正在解压 Natives 文件
+[20:53:45.369] [Loader] 加载器 解压文件 状态改变：Finished
+[20:53:45.377] [Loader] 加载器 预启动处理 状态改变：Loading
+[20:53:45.383] [Launch] 当前语言为 zh_cn，无需修改
+[20:53:45.383] [Loader] 加载器 预启动处理 状态改变：Finished
+[20:53:45.398] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[20:53:45.402] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[20:53:45.405] [Loader] 加载器 启动进程 状态改变：Loading
+[20:53:45.419] [Launch] 已启动游戏进程：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\javaw.exe
+[20:53:45.419] [Loader] 加载器 启动进程 状态改变：Finished
+[20:53:45.433] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[20:53:45.435] [Launch] 
+[20:53:45.435] [Launch] ~ 基础参数 ~
+[20:53:45.435] [Launch] PCL 版本：Release 2.6.7 (302)
+[20:53:45.435] [Launch] 游戏版本：1.12.2, Forge 14.23.5.2860（12.2）
+[20:53:45.435] [Launch] 资源版本：1.12
+[20:53:45.435] [Launch] 版本继承：无
+[20:53:45.436] [Launch] 分配的内存：2.3 GB（2355 MB）
+[20:53:45.436] [Launch] MC 文件夹：C:\Users\gongq\AppData\Roaming\.minecraft\
+[20:53:45.436] [Launch] 版本文件夹：C:\Users\gongq\AppData\Roaming\.minecraft\versions\Last Days of Humanity\
+[20:53:45.436] [Launch] 版本隔离：True
+[20:53:45.436] [Launch] HMCL 格式：False
+[20:53:45.436] [Launch] Java 信息：JRE 8 (8.0.51)，64 位：C:\Users\gongq\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[20:53:45.437] [Launch] 环境变量：未设置
+[20:53:45.437] [Launch] 
+[20:53:45.437] [Launch] ~ 登录参数 ~
+[20:53:45.437] [Launch] 玩家用户名：chandlier
+[20:53:45.437] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX48718
+[20:53:45.437] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX48718
+[20:53:45.437] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX48718
+[20:53:45.437] [Launch] 登录方式：Legacy
+[20:53:45.437] [Launch] 
+[20:53:45.439] [Launch] [10496] 开始 Minecraft 日志监控
+[20:53:45.439] [Launch] [全局] 出现运行中的 Minecraft
+[20:53:45.693] [Launch] [10496] 日志 1/5：已出现日志输出
+[20:53:52.241] [Launch] [10496] 日志 2/5：游戏用户已设置
+[20:53:55.589] [Launch] [10496] 日志 3/5：LWJGL 版本已确认
+[20:53:55.827] [Launch] [10496] Minecraft 窗口已加载：（25757124）
+[20:53:56.289] [Launch] [10496] Minecraft 加载已完成
+[20:53:56.304] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[20:53:56.320] [Loader] 加载器 结束处理 状态改变：Loading
+[20:53:56.322] [Launch] 开始启动结束处理
+[20:53:56.322] [Launch] 启动器可见性：5
+[20:53:56.323] [Loader] 加载器 结束处理 状态改变：Finished
+[20:53:56.343] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[20:53:56.447] [Loader] 加载器 Loader Launch 状态改变：Finished
+[20:53:56.481] [UI] 弹出提示：Last Days of Humanity 启动成功！
+[20:54:47.632] [Control] 按下图标按钮：BtnTitleClose
+[20:54:47.637] [System] 收到关闭指令
+[20:54:47.900] [System] 程序已退出，返回值：Success
