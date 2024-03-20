@@ -1,1 +1,3 @@
 print("B add a code")
+print("A add a code")
+
